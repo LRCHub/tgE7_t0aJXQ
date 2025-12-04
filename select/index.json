@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Rock on.",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T15:18:20.015669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock On (Nosaj Thing remix)",
+      "artist": "Adam Freeland",
+      "has_synced": false,
+      "path": "select/01_Rock_On_(Nosaj_Thing_remix)_Adam_Freeland.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock On (Nosaj Thing Remix)",
+      "artist": "Freeland",
+      "has_synced": false,
+      "path": "select/02_Rock_On_(Nosaj_Thing_Remix)_Freeland.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock On the Moon",
+      "artist": "The Cramps",
+      "has_synced": false,
+      "path": "select/03_Rock_On_the_Moon_The_Cramps.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/04_Rock_On_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Doro",
+      "has_synced": true,
+      "path": "select/05_Rock_On_Doro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/06_Rock_On_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Gyllene Tider",
+      "has_synced": false,
+      "path": "select/07_Rock_On_Gyllene_Tider.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Funkdoobiest",
+      "has_synced": false,
+      "path": "select/08_Rock_On_Funkdoobiest.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little Girl In Bloom - BBC Radio 1 Rock On Session",
+      "artist": "Thin Lizzy",
+      "has_synced": false,
+      "path": "select/09_Little_Girl_In_Bloom_-_BBC_Radio_1_Rock_On_Session_Thin_Lizzy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Poison (Rock on the Radio mix)",
+      "artist": "Groove Coverage",
+      "has_synced": true,
+      "path": "select/10_Poison_(Rock_on_the_Radio_mix)_Groove_Coverage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Got to Rock On",
+      "artist": "Kansas",
+      "has_synced": true,
+      "path": "select/11_Got_to_Rock_On_Kansas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "David Essex",
+      "has_synced": true,
+      "path": "select/12_Rock_On_David_Essex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Michael Damián",
+      "has_synced": false,
+      "path": "select/13_Rock_On_Michael_Damián.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Michael Damian",
+      "has_synced": false,
+      "path": "select/14_Rock_On_Michael_Damian.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/15_Rock_On_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rock On",
+      "artist": "Vandenberg",
+      "has_synced": false,
+      "path": "select/16_Rock_On_Vandenberg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock on.",
+      "artist": "nano",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_on._nano.txt"
+    }
+  ]
+}
